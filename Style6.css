@@ -1,0 +1,685 @@
+#border td, th {
+	border: 1px solid gray;
+	}
+
+#navigation {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 18px;
+	float: right;
+	padding-right: 65px;
+	font-style: italic;
+	}
+
+#head {
+	background-image: url("AllAnimals.png");
+	background-repeat:repeat-x;
+	}
+
+body {
+	background-color:#BFB2B3;
+	
+	}
+
+#bed {
+	border-color: #F5C727;
+	border-style: double;
+	position: relative;
+	width: 300px;
+	height: 300px;
+	background-color:antiquewhite;
+	margin-left: 25px;
+	margin-top: 25px;
+	padding: 5px;
+	}
+
+#bed img.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 150px;
+	width: 200px;
+	}
+
+#bed h2 {
+	text-align: center;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-style: italic;
+	color:#28758C;
+	font-size: 20px;
+	}
+
+#bed p {
+	text-align: center;
+	font-size: 11px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	}
+
+#buffalo {
+	position:relative;
+	margin-left: 850px;
+	margin-top: -330px;
+	width: 300px;
+	}
+
+#buffalo h2 {
+	text-align: center;
+	color: #212BEC;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	}
+
+#buffalo p {
+	text-align: center;
+	}
+
+#buffalo img.center {
+	height: 350px;
+	width: 225px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto
+	}
+
+#groom {
+	width: 350px;
+	height: 350px;
+	position: relative;
+	margin-top: -500px;
+	margin-left: 10px;
+	border: inset;
+	border-color: black;
+	border-radius: 20px;
+	background-color: #A2561B;
+	padding: 10px;
+	}
+
+#groom h2 {
+	text-align: center;
+	color:antiquewhite;
+	font-size: 25px;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	}
+
+#groom img.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+#groom.center {
+	text-align: center;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	color:antiquewhite;
+	font-size: 15px;
+	}
+
+#groom a {
+	color:antiquewhite;
+	}
+
+#letter {
+	width: 210px;
+	position: relative;
+	margin-top: -660px;
+	margin-left: 500px;
+	}
+
+#letter img.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5px;
+	width: 200px;
+	height: 200px;
+	}
+
+#letter h2 {
+	text-align: center;
+	font:italic;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";	
+	}
+
+#letter p {
+	text-align: center;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";	
+	}
+	
+#facebook {
+	position: relative;
+	margin-left: 50px;
+	margin-top: 220px;
+	width: 250px;
+	height: 100px;
+	border-style: outset;
+	border-color: blue;
+	padding: 5px 5px 5px 5px;
+	background-color: aliceblue;
+	}
+
+#facebook img {
+	width: 30px;
+	height: 30px;
+	}
+
+#facebook h4 {
+	text-align: center;
+	color: aliceblue;
+	background-color: #2A14EC;
+	font-size: 15px;
+	}
+
+#facebook a {
+	text-align: center;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-style: oblique;
+	font-size: 12px;
+	color: blue;
+	}
+	
+#article {
+	position: relative;
+	margin-left: 450px;
+	margin-top: -275px;
+	margin-bottom: 75px;
+	width: 280px;
+	height: 150px;
+	background-image: url("dog-sleeping-on-pillow-122583050.jpg");
+	}
+
+#article h3 {
+	color:white;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 25px;
+	font-style: oblique;
+	text-align: center;
+	}
+
+#article.center {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-style:normal;
+	font-size: 25px;
+	text-align: center;
+	}
+
+#article a {
+	color: white;
+	}
+
+#title {
+	color:#9145BD;
+	font-size: 45px;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	text-shadow: 2px 2px 2px black;
+	text-align: center;
+	font-style: oblique;
+	padding-bottom: 8px;
+	}
+
+#profiles {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width: 1200px;
+	height: 250px;
+	align-content: center;
+	}
+
+#profiles img {
+	float: left;
+	padding-right: 60px;
+	clear:both;
+	}
+
+#profiles h2 {
+	text-align: center;
+	color: black;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 35px;
+	}
+
+#profiles p {
+	color: black;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 20px;
+	}
+
+#head h1 {
+	color:red;
+	font-size: 35px;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	text-shadow: 2px 2px 2px black;
+	text-align: center;
+	font-style: oblique;
+	padding-bottom: 8px;
+	}
+
+#head h2 {
+	color:#D9C40C;
+	font-size: 25px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	text-shadow: 1px 1px 1px black;
+	text-decoration: underline;
+	text-align: center;
+	padding-top: 10px;
+	position: inherit;
+	}
+
+iframe.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	}
+
+#wrapper {
+	width: 1200px;
+	margin: auto;
+	padding-bottom: 50px;
+	}
+
+#location h3 {
+	text-align: center;
+	color: black;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 35px;
+	}
+
+#location li {
+	color: black;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 20px;
+	}
+
+#groombody h2 {
+	text-align: center;
+	color: black;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 35px;
+	}
+
+#groombody li {
+	color: black;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 20px;
+	}
+
+#groombody p {
+	text-align: center;
+	color: black;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 25px;
+	}
+
+#groombody img.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+#space {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	}
+
+#wrap1 {
+	width: 1200px;
+	margin: auto;
+	padding-bottom: 50px;
+	}
+
+#wrap1 h2 {
+	text-align: center;
+	color: black;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 45px;
+	font-style: italic;
+}
+
+#wrap1 label {
+	color: black;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 15px;
+	}
+
+#wrap1 input {
+	color: black;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 15px;
+	}
+
+#wrap1 select {
+	color: black;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 15px;
+	
+	}
+
+#wrap1 div {
+	padding: 7px;
+	}
+
+#wrap1 div label {
+	padding-right: 5px;
+	}
+
+#foot {
+	text-align: center;
+	padding-bottom: 10px;
+	}
+
+#map {
+	padding-bottom: 100px;
+	}
+
+#contact img.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+#contact p {
+	text-align: center;
+	color: black;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 25px;
+	}
+
+#wrap2 label {
+	color: black;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 15px;
+	}
+
+#wrap2 input {
+	color: black;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 15px;
+	}
+
+#wrap2 div {
+	padding: 7px;
+	}
+
+#thanks h2 {
+	text-align: center;
+	color: black;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 25px;
+	}
+
+#border {
+	border: thin;
+	border-color: black;
+	}
+
+#tbl4 td, th {
+	border: 1px solid grey;
+	}
+
+@media screen and (max-width: 800px) {
+	
+	#head h2 {
+	display: inline-flex;
+	padding-top: 30px;
+	object-position: center;
+	}
+	
+	#navigation {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 14px;
+	float: left;	
+	font-style: italic;
+	padding-bottom: 15px;
+	}
+	
+	#bed {
+	border-color: #F5C727;
+	border-style: double;
+	position: relative;
+	width: 300px;
+	height: 300px;
+	background-color:antiquewhite;
+	margin-left: 25px;
+	margin-top: 25px;
+	padding: 5px;
+	}
+		
+	#buffalo {
+	position:relative;
+	margin-left: 420px;
+	margin-top: -300px;
+	width: 300px;
+	}
+	
+	#groom {
+	width: 350px;
+	height: 350px;
+	position: relative;
+	margin-top: -535px;
+	margin-left: 10px;
+	border: inset;
+	border-color: black;
+	border-radius: 20px;
+	background-color: #A2561B;
+	padding: 10px;
+	}
+
+	#letter {
+	width: 210px;
+	position: relative;
+	margin-top: 160px;
+	margin-left: 470px;
+	margin-bottom: 75px;
+	}
+	
+	#facebook {
+	position: relative;
+	margin-left: 30px;
+	margin-top: -600px;
+	width: 250px;
+	height: 100px;
+	border-style: outset;
+	border-color: blue;
+	padding: 5px 5px 5px 5px;
+	background-color: aliceblue;
+	}
+	
+	#article {
+	position: relative;
+	margin-left: 10px;
+	margin-top: 100px;
+	margin-bottom: 150px;
+	width: 280px;
+	height: 150px;
+	background-image: url("dog-sleeping-on-pillow-122583050.jpg");
+	}
+	
+	#wrapper {
+	max-width: 700px;
+	padding: 20px;
+	padding-bottom: 50px;
+	}
+	
+	#wrap1 h2 {
+	font-size: 30px;
+	text-align: left;
+	}
+	
+	#profiles {
+	width: 700px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	height: 300px;
+	}
+}
+
+@media screen and (max-width: 480px) {
+	#head h2 {
+		display: inline-flex;
+		padding-top: 30px;
+		object-position:center;
+	}
+	
+	#navigation {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 12px;
+	float:none;
+	font-style: italic;
+	padding-bottom: 15px;
+	}	
+	
+	#bed {
+	border-color: #F5C727;
+	border-style: double;
+	position: relative;
+	width: 300px;
+	height: 300px;
+	background-color:antiquewhite;
+	margin-left: 20px;
+	margin-top: 25px;
+	padding: 5px;
+	}
+		
+	#buffalo {
+	position:relative;
+	margin-left: 25px;
+	margin-top: 50px;
+	width: 300px;
+	}
+	
+	#groom {
+	width: 350px;
+	height: 350px;
+	position: relative;
+	margin-top: 70px;
+	margin-left: -15px;
+	border: inset;
+	border-color: black;
+	border-radius: 20px;
+	background-color: #A2561B;
+	padding: 10px;
+	}
+
+	#letter {
+	width: 210px;
+	position: relative;
+	margin-top: 85px;
+	margin-left: 60px;
+	margin-bottom: 75px;
+	}
+	
+	#facebook {
+	position: relative;
+	margin-left: 35px;
+	margin-top: 90px;
+	width: 250px;
+	height: 100px;
+	border-style: outset;
+	border-color: blue;
+	padding: 5px 5px 5px 5px;
+	background-color: aliceblue;
+	}
+	
+	#article {
+	position: relative;
+	margin-left: 30px;
+	margin-top: 100px;
+	margin-bottom: 20px;
+	width: 280px;
+	height: 150px;
+	background-image: url("dog-sleeping-on-pillow-122583050.jpg");
+	}
+	
+	#wrapper {
+	max-width: 350px;
+	margin: auto;
+	padding-bottom: 50px;
+	}
+	
+	#wrap1 {
+		margin-left: -30px;
+	}
+	
+	#wrap1 h2 {
+		font-size: 15px;
+		text-align: left;
+	}
+	
+	#wrap1 input {
+	color: black;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 11px;
+	}
+	
+	#wrap1 td {
+		font-size: 11px;
+	}
+	
+	#wrap1 td option {
+		font-size: 11px;
+	}
+	
+	#wrap1 select {
+		font-size: 11px;
+	}
+	
+	#wrap1 label {
+		font-size: 11px;
+	}
+	
+	#profiles {
+		width: 380px;
+		margin-top: 40px;
+		margin-bottom: 200px;
+		height: 400px;
+		}
+	
+	#wrap2 input {
+	color: black;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 12px;
+	}
+	
+	#wrap2 td {
+		font-size: 12px;
+	}
+	
+	#wrap2 td option {
+		font-size: 12px;
+	}
+	
+	#wrap2 select {
+		font-size: 12px;
+	}
+	
+	#wrap2 label {
+		font-size: 12px;
+	}
+	
+	#Message {
+		font-size: 12px;
+	}
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
