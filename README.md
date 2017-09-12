@@ -13,4 +13,4 @@ This project was created for a fictitious small business known as Sandy's Pet Sh
  
 The site contains a single header and footer which are displayed on each page using PHP.  
 
-[ReadMeScreenShots.docx](https://github.com/rich7599/Final-Project-Certification/files/1297112/ReadMeScreenShots.docx)
+[ReadMeScreenShots.docx](https://github.com/rich7599/Final-Project-Certification/files/1297145/ReadMeScreenShots.docx)
