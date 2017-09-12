@@ -1,5 +1,8 @@
 # Final-Project-Certification
-This project was created for a fictitious small business known as Sandy's Pet Shop using the most current HTML5 and CSS3 standards.  Please view the ReadMe Word document below to see what the pages look like when rendered.  The site consists of the following pages:
+
+Project Name: Sandy's Pet Shop
+
+Description:  This website was created as a final project in order to earn my certification in Web Applications Development.  The premise was to build a site for a fictitious small business known as Sandy's Pet Shop.  Please view the ReadMeScreenShots.docx at the bottom to see what the pages look like when rendered.  The website consists of the following pages:
 
 "Home" page: This page lists sales and special products offered by the store.  
 
